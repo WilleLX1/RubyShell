@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|c:\\projects\\_other\\rubyshell\\rubyshellgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|c:\\projects\\_other\\rubyshell\\rubyshellgenerator\\clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|solutionrelative:clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|c:\\projects\\_other\\rubyshell\\rubyshellgenerator\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|solutionrelative:clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|c:\\projects\\_other\\rubyshell\\rubyshellgenerator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80429A8C-879C-43C0-937D-81EC23EE32B5}|RubyShellGenerator.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 384,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientForm.Designer.cs",
+              "DocumentMoniker": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\ClientForm.Designer.cs",
+              "RelativeDocumentMoniker": "ClientForm.Designer.cs",
+              "ToolTip": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\ClientForm.Designer.cs",
+              "RelativeToolTip": "ClientForm.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:37:02.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\ClientForm.cs",
+              "RelativeDocumentMoniker": "ClientForm.cs",
+              "ToolTip": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\ClientForm.cs",
+              "RelativeToolTip": "ClientForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:35:35.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:34:00.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\projects\\_other\\RubyShell\\RubyShellGenerator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:29:29.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
